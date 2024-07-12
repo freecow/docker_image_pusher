@@ -1,3 +1,1 @@
-nginx
-chromadb/chroma
-0001coder/chatollama
+vllm/vllm-openai
