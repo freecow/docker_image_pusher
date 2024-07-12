@@ -1,1 +1,1 @@
-vllm/vllm-openai
+ghcr.io/fmaclen/hollama
